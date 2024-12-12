@@ -1,2 +1,2 @@
-# Csharp-questions
-C# test containing 6 questions
+# Description
+C# test containing 6 questions.
